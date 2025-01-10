@@ -1,0 +1,5 @@
+C:\Users\kubaj\RiderProjects\PluginList\PluginList\bin\Release\PluginList.dll
+C:\Users\kubaj\RiderProjects\PluginList\PluginList\obj\Release\PluginList.csproj.AssemblyReference.cache
+C:\Users\kubaj\RiderProjects\PluginList\PluginList\obj\Release\PluginList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubaj\RiderProjects\PluginList\PluginList\obj\Release\PluginList.csproj.CoreCompileInputs.cache
+C:\Users\kubaj\RiderProjects\PluginList\PluginList\obj\Release\PluginList.dll

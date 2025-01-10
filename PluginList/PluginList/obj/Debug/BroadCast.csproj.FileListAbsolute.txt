@@ -1,0 +1,5 @@
+C:\Users\kubaj\RiderProjects\BroadCast\BroadCast\bin\Debug\BroadCast.dll
+C:\Users\kubaj\RiderProjects\BroadCast\BroadCast\obj\Debug\BroadCast.csproj.AssemblyReference.cache
+C:\Users\kubaj\RiderProjects\BroadCast\BroadCast\obj\Debug\BroadCast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubaj\RiderProjects\BroadCast\BroadCast\obj\Debug\BroadCast.csproj.CoreCompileInputs.cache
+C:\Users\kubaj\RiderProjects\BroadCast\BroadCast\obj\Debug\BroadCast.dll
