@@ -1,5 +1,0 @@
-C:\Users\kubaj\RiderProjects\BroadCast\AutoUpdater\obj\Debug\AutoUpdater.csproj.AssemblyReference.cache
-C:\Users\kubaj\RiderProjects\BroadCast\AutoUpdater\obj\Debug\AutoUpdater.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kubaj\RiderProjects\BroadCast\AutoUpdater\obj\Debug\AutoUpdater.csproj.CoreCompileInputs.cache
-C:\Users\kubaj\RiderProjects\BroadCast\AutoUpdater\bin\Debug\AutoUpdater.dll
-C:\Users\kubaj\RiderProjects\BroadCast\AutoUpdater\obj\Debug\AutoUpdater.dll

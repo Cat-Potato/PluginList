@@ -1,5 +1,0 @@
-C:\Users\kubaj\RiderProjects\PluginList\PluginList\bin\Debug\PluginList.dll
-C:\Users\kubaj\RiderProjects\PluginList\PluginList\obj\Debug\PluginList.csproj.AssemblyReference.cache
-C:\Users\kubaj\RiderProjects\PluginList\PluginList\obj\Debug\PluginList.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kubaj\RiderProjects\PluginList\PluginList\obj\Debug\PluginList.csproj.CoreCompileInputs.cache
-C:\Users\kubaj\RiderProjects\PluginList\PluginList\obj\Debug\PluginList.dll
